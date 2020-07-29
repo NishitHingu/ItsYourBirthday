@@ -49,7 +49,7 @@ body{
 	background-image: url(assets/bg.jpg);
 	background-repeat: repeat;
 	background-attachment: fixed;
-	background-size: contain;
+	background-size: cover;
 	font-family: 'Kaushan Script', cursive;
 	
 }
