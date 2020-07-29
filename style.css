@@ -46,16 +46,40 @@ html, body {
 	max-width: 100%;
 }
 body{
-	background-color:pink;
+	background-color: whitesmoke;
+	background-repeat: repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	font-family: 'Kaushan Script', cursive;
+	
 }
-p{
+div{
 	margin-top: 200px;
 }
+h1{
+	font-size: 100px;
+}
+#komal{
+	margin-top: 0px;
+	margin-bottom: 500px;
+}
+#komalpic{
+	width: 90%;
+	height: 800px;
+}
+
+
 #text{
-	font-family: 'Times New Roman', Times, serif;
+	
 	font-size: 30px;
 	text-align: center;
 	margin: 100px;
 	padding: 20px;
 
+}
+img{
+	margin-top: 300px;
+	margin-bottom: 100px;
+	height: 700px;
+	width: 80%;
 }
