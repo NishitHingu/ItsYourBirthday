@@ -45,7 +45,7 @@ table {
 
 body{
 	background-image: url(assets/bg.jpg);
-	background-repeat: repeat;
+	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
 	font-family: 'Kaushan Script', cursive;
