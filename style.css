@@ -42,9 +42,7 @@ table {
 	border-spacing: 0;
 }
 /*my css*/
-html, body {
-	max-width: 100%;
-}
+
 body{
 	background-image: url(assets/bg.jpg);
 	background-repeat: repeat;
